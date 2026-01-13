@@ -1,1 +1,11 @@
 /* Add CSS Styling */
+
+.click-yes {
+    background-color: black;
+    color: white;
+}
+
+.click-no {
+    background-color: yellow;
+    color: black;
+}
