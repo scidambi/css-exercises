@@ -1,1 +1,6 @@
 /* Add CSS Styling */
+
+p {
+
+    background-color: hsl(360, 100%, 80%);
+}
