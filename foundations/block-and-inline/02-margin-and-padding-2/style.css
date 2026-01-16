@@ -24,7 +24,7 @@ body {
 
 .button-container {
   background: #e3f4ff;
-  display: inline-block;
+  display: block;
   
 }
 
@@ -32,5 +32,6 @@ button {
   background: white;
   border: 1px solid #eee;
   display: block;
-  margin-top: 20px;
+  
+
 }
